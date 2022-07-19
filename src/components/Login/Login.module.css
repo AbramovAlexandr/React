@@ -1,0 +1,15 @@
+.formSummaryError{
+    border: red 1px solid;
+    
+    color: red;
+    width: 40px;
+}
+
+.form{
+    margin-left: 15px;
+}
+
+.form h1{
+    margin-left: 16px;
+
+}

@@ -1,0 +1,22 @@
+.descriptionBlock {
+    padding: 10px;
+    display: grid;
+    grid-template-areas: "h" "n" ;
+
+    grid-template-rows: 260px 10fr;
+    grid-template-columns: 2fr 10fr;
+    border-bottom: 1px solid white;
+}
+
+.descriptionBlock img{
+    width: 250px;
+    height: 250px;
+}
+
+.info{
+    margin-left: 30px;
+
+}
+.info h2{
+    margin: 0px
+}
